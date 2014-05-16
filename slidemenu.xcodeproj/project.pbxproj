@@ -116,6 +116,10 @@
 		7E5CC9211925DC8000F03506 /* slidemenu */ = {
 			isa = PBXGroup;
 			children = (
+				7E5CC92A1925DC8000F03506 /* AppDelegate.h */,
+				7E5CC92B1925DC8000F03506 /* AppDelegate.m */,
+				7E5CC92D1925DC8000F03506 /* Main_iPhone.storyboard */,
+				7E5CC9301925DC8000F03506 /* Main_iPad.storyboard */,
 				7E5CC9571925DDBA00F03506 /* act */,
 				7E5CC9531925DCEB00F03506 /* util */,
 				7E5CC9221925DC8000F03506 /* Supporting Files */,
@@ -149,10 +153,6 @@
 		7E5CC9571925DDBA00F03506 /* act */ = {
 			isa = PBXGroup;
 			children = (
-				7E5CC92A1925DC8000F03506 /* AppDelegate.h */,
-				7E5CC92B1925DC8000F03506 /* AppDelegate.m */,
-				7E5CC92D1925DC8000F03506 /* Main_iPhone.storyboard */,
-				7E5CC9301925DC8000F03506 /* Main_iPad.storyboard */,
 				7E5CC9331925DC8000F03506 /* ViewController.h */,
 				7E5CC9341925DC8000F03506 /* ViewController.m */,
 				7E5CC9581925DDF800F03506 /* MenuAct.h */,
